@@ -1,0 +1,36 @@
+[04-Jan-2024 12:19:23 UTC] PHP Warning:  file_get_contents(https://api.ipinfodb.com/v3/ip-country/?key=46e3a1695c17ed734497eb670943c9071bb0f0fd5f21a5c43bff959e8ef07f91&amp;ip=122.173.24.149&amp;format=json): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 26
+[04-Jan-2024 12:19:23 UTC] PHP Notice:  Trying to get property 'countryName' of non-object in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 28
+[04-Jan-2024 12:19:23 UTC] PHP Notice:  Trying to get property 'countryCode' of non-object in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 29
+[04-Jan-2024 12:19:23 UTC] PHP Warning:  file_get_contents(https://api.ipinfodb.com/v3/ip-country/?key=46e3a1695c17ed734497eb670943c9071bb0f0fd5f21a5c43bff959e8ef07f91&amp;ip=122.173.24.149&amp;format=json): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 26
+[04-Jan-2024 12:19:23 UTC] PHP Notice:  Trying to get property 'countryName' of non-object in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 28
+[04-Jan-2024 12:19:23 UTC] PHP Notice:  Trying to get property 'countryCode' of non-object in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 29
+[04-Jan-2024 12:19:23 UTC] PHP Warning:  file_get_contents(https://api.ipinfodb.com/v3/ip-country/?key=46e3a1695c17ed734497eb670943c9071bb0f0fd5f21a5c43bff959e8ef07f91&amp;ip=122.173.24.149&amp;format=json): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 26
+[04-Jan-2024 12:19:23 UTC] PHP Notice:  Trying to get property 'countryName' of non-object in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 28
+[04-Jan-2024 12:19:23 UTC] PHP Notice:  Trying to get property 'countryCode' of non-object in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 29
+[04-Jan-2024 12:19:23 UTC] PHP Warning:  file_get_contents(https://api.ipinfodb.com/v3/ip-country/?key=46e3a1695c17ed734497eb670943c9071bb0f0fd5f21a5c43bff959e8ef07f91&amp;ip=122.173.24.149&amp;format=json): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 26
+[04-Jan-2024 12:19:23 UTC] PHP Notice:  Trying to get property 'countryName' of non-object in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 28
+[04-Jan-2024 12:19:23 UTC] PHP Notice:  Trying to get property 'countryCode' of non-object in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 29
+[04-Jan-2024 12:27:15 UTC] PHP Warning:  file_get_contents(https://api.ipinfodb.com/v3/ip-country/?key=46e3a1695c17ed734497eb670943c9071bb0f0fd5f21a5c43bff959e8ef07f91&amp;ip=122.173.24.149&amp;format=json): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 26
+[04-Jan-2024 12:27:15 UTC] PHP Notice:  Trying to get property 'countryName' of non-object in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 28
+[04-Jan-2024 12:27:15 UTC] PHP Notice:  Trying to get property 'countryCode' of non-object in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 29
+[04-Jan-2024 12:27:16 UTC] PHP Warning:  file_get_contents(https://api.ipinfodb.com/v3/ip-country/?key=46e3a1695c17ed734497eb670943c9071bb0f0fd5f21a5c43bff959e8ef07f91&amp;ip=122.173.24.149&amp;format=json): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 26
+[04-Jan-2024 12:27:16 UTC] PHP Notice:  Trying to get property 'countryName' of non-object in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 28
+[04-Jan-2024 12:27:16 UTC] PHP Notice:  Trying to get property 'countryCode' of non-object in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 29
+[04-Jan-2024 12:27:17 UTC] PHP Warning:  file_get_contents(https://api.ipinfodb.com/v3/ip-country/?key=46e3a1695c17ed734497eb670943c9071bb0f0fd5f21a5c43bff959e8ef07f91&amp;ip=122.173.24.149&amp;format=json): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 26
+[04-Jan-2024 12:27:17 UTC] PHP Notice:  Trying to get property 'countryName' of non-object in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 28
+[04-Jan-2024 12:27:17 UTC] PHP Notice:  Trying to get property 'countryCode' of non-object in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 29
+[04-Jan-2024 12:27:19 UTC] PHP Warning:  file_get_contents(https://api.ipinfodb.com/v3/ip-country/?key=46e3a1695c17ed734497eb670943c9071bb0f0fd5f21a5c43bff959e8ef07f91&amp;ip=122.173.24.149&amp;format=json): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 26
+[04-Jan-2024 12:27:19 UTC] PHP Notice:  Trying to get property 'countryName' of non-object in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 28
+[04-Jan-2024 12:27:19 UTC] PHP Notice:  Trying to get property 'countryCode' of non-object in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 29
+[04-Jan-2024 12:32:34 UTC] PHP Warning:  file_get_contents(https://api.ipinfodb.com/v3/ip-country/?key=46e3a1695c17ed734497eb670943c9071bb0f0fd5f21a5c43bff959e8ef07f91&amp;ip=122.173.24.149&amp;format=json): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 26
+[04-Jan-2024 12:32:34 UTC] PHP Notice:  Trying to get property 'countryName' of non-object in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 28
+[04-Jan-2024 12:32:34 UTC] PHP Notice:  Trying to get property 'countryCode' of non-object in /home/techybook/mdisk.techybook.xyz/shorturl/controllers/open.php on line 29
